@@ -169,3 +169,14 @@ h4{
     border-color: #f9faf8;
     border-radius: 5px;
 }
+.copyright-section{
+    height: 10vh;
+    background-color: #1F2937;
+}
+.copyright-text{
+    position: absolute;
+    color: #f9faf8;
+    font-size: 17px;
+    margin-left: 42%;
+    margin-top: 20px;
+}
