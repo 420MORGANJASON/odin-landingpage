@@ -100,3 +100,27 @@ h2{
 .card1{
     border-radius: 25px;
 }
+.quote{
+    background-color: #E5E7EB;
+    height: 50vh;
+}
+h3{
+    width: 50%;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 200;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 220px;
+}
+.quote-section{
+    height: 20vh;
+    width: 80%;
+    margin-left: 180px;
+}
+.bold-quote{
+    position: absolute;
+    margin-left: 50%;
+    margin-top: 300px;
+    font-size: 20px;
+}
